@@ -1,0 +1,1 @@
+old file is deleted and copied into new.txt
