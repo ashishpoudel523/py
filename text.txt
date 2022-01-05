@@ -1,3 +1,11 @@
 I am a learner.
 pycharm is the best compiler
 pip install ipython
+
+if day == "Sunday":
+print("Go to work")
+elif(day=="Saturday"):
+print("Sleep")
+else:
+print("Do anything")
+print("bye bye!)
