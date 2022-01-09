@@ -1,6 +1,6 @@
 I am a learner.
 pycharm is the best compiler
-pip install ipytho
+pip install ipython
 
 if day == "Sunday":
 print("Go to work")
