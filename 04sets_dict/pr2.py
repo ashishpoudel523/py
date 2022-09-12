@@ -1,4 +1,5 @@
 #enter 8 numbers and display only unique
+
 a1 = int(input("Enter num 1 \n:"))
 a2 = int(input("Enter num 2 \n:"))
 a3 = int(input("Enter num 3 \n:"))
