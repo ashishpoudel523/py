@@ -1,4 +1,5 @@
 # day = ["Sunday", "Monday", "Tuesday"]
+
 # a = input("Enter the day:")
 # if a == "Sunday":
 #     print("ghjkl")
