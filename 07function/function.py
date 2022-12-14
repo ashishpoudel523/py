@@ -2,7 +2,7 @@ def ap(fname="Hello"):
     print(fname + " Poudel")
 
 
-ap("Ashish")
+ap("Aashish")
 ap()
 
 #recursion function
